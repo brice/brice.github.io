@@ -2,4 +2,4 @@
 
 My Personnal Home Page (yeah PHP)
 
-Powered by may hands.
+Powered by my hands and jekyll
