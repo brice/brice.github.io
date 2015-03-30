@@ -20,7 +20,7 @@ description: "Un peu de Photographie, un peu d'informatique, beaucoup d'autres c
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://brice.github.io/"
+url: "https://brice.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -44,7 +44,7 @@ logo: "logo.png"
 paginate: 5
 
 
-# Pagination path › Important for blog page in /blog/ to work
+# Pagination path › Iimportant for blog page in /blog/ to work
 paginate_path: "blog/page:num"
 
 
@@ -86,7 +86,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "brice_favre"
+      author: "bricef"
   -
     scope:
       path: ""        
@@ -95,7 +95,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "brice_favre"
+      author: "bricef"
 
 
 
@@ -178,8 +178,7 @@ og_description:                     "Un peu de Photographie, un peu d'informatiq
 #                    /_/              
 #
 # used in _includes/comments.html
-
-disqus_shortname: feelingresponsive
+# disqus_shortname: feelingresponsive
 
 
 #      _____                
