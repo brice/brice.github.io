@@ -33,7 +33,7 @@ improve_content: https://github.com/brice/brice.github.io/edit/master
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://brice.github.io/images/"
+urlimg: "http://brice.github.io/images"
 
 
 # Logo size is 600x80 pixels
@@ -203,4 +203,3 @@ sass:
 # used in _includes/footer_scripts.html
 
 google_analytics_tracking_id: UA-364734-12
-
