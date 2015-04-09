@@ -14,7 +14,7 @@ widget-1:
     text: ''
     image: unsplash_sunset.jpg
 widget-2:
-   title: "Portfolio"
+    title: "Portfolio"
     url: '/portfolio/'
     text: ''
     image: unsplash_grass.jpg
