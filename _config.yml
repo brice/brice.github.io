@@ -44,7 +44,7 @@ logo: "logo.png"
 paginate: 5
 
 
-# Pagination path › Iimportant for blog page in /blog/ to work
+# Pagination path › Important for blog page in /blog/ to work
 paginate_path: "blog/page:num"
 
 
