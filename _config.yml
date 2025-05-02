@@ -204,5 +204,5 @@ exclude:
 # google_analytics_tracking_id: UA-364734-12
 
 
-theme: jekyll-theme-minima
+theme: minima
 # remote_theme: "jekyll/minima@1e8a445"
