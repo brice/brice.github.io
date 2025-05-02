@@ -10,15 +10,15 @@ theme: minima
 #                                                 /____/        
 #
 # Title of your website
-title: "PeLmeL.org"
+title: "brice.github.io"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Un peu de ci, un peu de ça, pelmel en tout"
+slogan: "Journal de mes activités diverses et variés mais aussi des projets plus particulier."
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Un peu de Photographie, un peu d'informatique, beaucoup d'autres choses aussi. PeLMeL c'est une façon de partager tout moi"
+description: "Journal d'un ancien développeur web, reconvertie dans la QA et présentement en train d'apprendre le japonais."
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
