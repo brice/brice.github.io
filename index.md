@@ -1,27 +1,11 @@
 ---
 #
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-# layout: frontpage
-# title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
-# header:
-#    image_fullwidth: "header_bricefoto_1.jpg"
-# widget-1:
-#     title: "Blog"
-#     url: '/blog/'
-#     text: ''
-#     image: unsplash_sunset.jpg
-# widget-2:
-#     title: "Portfolio"
-#     url: '/portfolio/'
-#     text: ''
-#     image: unsplash_grass.jpg
-# widget-3:
-#     title: "About me"
-#     url: '/info/'
-#     text: ''
-#     image: unsplash_me.jpg
-# ---
+layout: home
+---
 
+Welcome/Bienvenue/いらっしゃいませ
