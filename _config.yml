@@ -77,25 +77,25 @@ exclude:
 #                                       
 # Default Settings
 
-defaults:
-  -
-    scope:
-      path: "" 				# an empty string here means all files in the project
-      type: "pages"
-    values:
-      show_meta: true 	# Show metadata beneath all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: "bricef"
-  -
-    scope:
-      path: ""        
-      type: "posts"
-    values:
-      show_meta: true   # Show metadata beneath all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: "bricef"
+# defaults:
+#   -
+#     scope:
+#       path: "" 				# an empty string here means all files in the project
+#       type: "pages"
+#     values:
+#       show_meta: true 	# Show metadata beneath all pages
+#       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+#       comments: false
+#       author: "bricef"
+#   -
+#     scope:
+#       path: ""        
+#       type: "posts"
+#     values:
+#       show_meta: true   # Show metadata beneath all posts
+#       # sidebar:        # Possible values › left, right › by default there will be no sidebar
+#       comments: false
+#       author: "bricef"
 
 
 
@@ -188,9 +188,9 @@ msapplication_tilecolor:                "#fabb00"
 #   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
 #                           
 
-sass:
-    sass_dir: _sass
-    style: :compressed
+# sass:
+#     sass_dir: _sass
+#     style: :compressed
 
 
 #       ___                __      __  _          
@@ -204,4 +204,5 @@ sass:
 # google_analytics_tracking_id: UA-364734-12
 
 
-remote_theme: "jekyll/minima@1e8a445"
+theme: "minima"
+# remote_theme: "jekyll/minima@1e8a445"
