@@ -8,4 +8,6 @@
 layout: home
 ---
 
-Welcome/Bienvenue/いらっしゃいませ
+## Welcome/Bienvenue/いらっしゃいませ
+
+Journal de bord d'un projet en cours autour du manuel Genki, de l'apprentissage du japonais et d'autres considérations pédagogiques. Les notes se trouvent ci-dessous.
