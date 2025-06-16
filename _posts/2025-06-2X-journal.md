@@ -18,3 +18,7 @@ Donc sur ce moment j'ai pu noté que j'avais appris du vocabulaire mais que j'av
 ## Difficultés pédagogiques
 
 Je dois dire que, depuis l'école ou le lycée, je n'ai pas suivi de leçon de grammaire. Autant le vocabulaire s'apprend par soi même, autant la grammaire est parfois aride en autodidacte. J'ai donc chercher des cours commentés du Genki en ligne. Je n'ai rien trouvé en français (vais je me lancer là dedans?) mais plusieurs chaînes Youtube en anglais sont très pertinentes.
+
+Vous pouvez trouver des [accompagnements classiques](https://www.youtube.com/@ToKiniAndy/search?query=Genki), d'[autres avec des chats](https://www.youtube.com/@ShiroNekoJapanese/search?query=Genki) ou avec [des exemples tirés de jeux vidéos](https://www.youtube.com/@GameGengo/search?query=Genki). 
+
+C'est d'ailleurs sur cette dernière chaine que j'ai trouvé un accompagnement très pertinent sur la leçon qui me posait soucis, la troisième leçon du Genki.
