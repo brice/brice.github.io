@@ -17,8 +17,35 @@ Donc sur ce moment j'ai pu noté que j'avais appris du vocabulaire mais que j'av
 
 ## Difficultés pédagogiques
 
-Je dois dire que, depuis l'école ou le lycée, je n'ai pas suivi de leçon de grammaire. Autant le vocabulaire s'apprend par soi même, autant la grammaire est parfois aride en autodidacte. J'ai donc chercher des cours commentés du Genki en ligne. Je n'ai rien trouvé en français (vais je me lancer là dedans?) mais plusieurs chaînes Youtube en anglais sont très pertinentes.
+Je dois dire que, depuis l'école ou le lycée, je n'ai pas suivi de leçon de grammaire. Autant le vocabulaire s'apprend par soi même, autant la grammaire est parfois aride en autodidacte. J'ai donc chercher des cours commentés du Genki en ligne. Je n'ai rien trouvé en français mais plusieurs chaînes Youtube en anglais sont très pertinentes.
 
 Vous pouvez trouver des [accompagnements classiques](https://www.youtube.com/@ToKiniAndy/search?query=Genki), d'[autres avec des chats](https://www.youtube.com/@ShiroNekoJapanese/search?query=Genki) ou avec [des exemples tirés de jeux vidéos](https://www.youtube.com/@GameGengo/search?query=Genki). 
 
-C'est d'ailleurs sur cette dernière chaine que j'ai trouvé un accompagnement très pertinent sur la leçon qui me posait soucis, la troisième leçon du Genki.
+C'est d'ailleurs sur cette dernière chaine que j'ai trouvé un accompagnement très pertinent sur la leçon qui me posait soucis, la troisième leçon du Genki, à savoir la différence entre les verbes ichidan et godan.
+
+### U-verb/ru-verb vs godan/ichidan
+
+Commen en français, il existe des catégories (ou groupes) de verbes en japonais. A l'exception du verbe faire (する) et du verbe venir (来る), les autres se classe dans l'un ou l'autre groupes. 
+
+ Dans le Genki et dans d'autres manuels, on va parler de verbes en RU et verbes en U. Les verbes se  finissant par iru ou eru sont des verbes en ru les autres sont des verbes en u mais il y a des exceptions car certains verbes en iru ou eru sont des verbes en u. En bref, il suffit d'apprendre les règles et les exceptions et ensuite on peut décliner les règles de conjugaison.
+
+ J'ai découvert qu'on parlait aussi  de verbes ichidan (1 degré) et de verbes godan (5 degrés). En gros sur les verbes ichidan, la base verbale ne changera qu'une fois alors qu'elle change cinq fois dans les verbes godan. L'identification parait complexe pour les locuteurs étrangers alors qu'elle est évidente pour les natifs.
+
+ Tout vient de l'apprentissage initiale et du moment où nous apprenons les conjugaisons. Pour les natifs, cet aprentissage intervient à l'école, au moment où l'élève a déjà un bagage de vocabulaire et a déjà appris les formes négatives des rêve du genre 食べる/食べない pour manger/pas manger ou  飲む/飲まない pour boire/pas boire. On distince il y a déjà une différence qui se dessine. Dans le premier cas on ne varie pas la base, 食べ (ou tabe en romaji). Dans le deuxième elle existe, 飲む (nomu) contre 飲ま (nomi). 
+ 
+ J'ai donc, grace à cette vidéo, appris que c'est sur cet acquis que l'enseignement se fait. Dans ma tête ça à fait boooooom. 
+
+ Pour creuser un peu plus le sujet je vous recommande ces articles :
+
+ * [Notions de base sur les verbes japonais](https://www.guidetojapanese.org/french/verbs.html)
+ * [Principe des verbes ](https://blog.japprendslejaponais.com/principes-des-verbes-ichidan-et-godan-en-japonais/)
+
+ ## Quête sans fin
+
+Depuis ce moment là, j'ai moins de difficultés à identifier les verbes, les temps et la négation. J'ai spécialement mieux pu identifier le passé par exemple. Il reste encore du travail pour y ajouter les formes et combiner le tout. Ce qui est intéressant c'est que la logique commence à se dessiner dans tout ça.
+
+En résumé, je ne peux que conseiller de croiser les sources. Si vous ne comprenez pas une notion, peut-être qu'avec une autre explication elle sera plus accessible. 
+
+## Et l'avancement du projet ? 
+
+Euh... C'est un peu pareil que pour l'apprentissage (oui je me répète). Je dois encore trouver vers quoi aller, sans doute la traduction de l'interface du site.
