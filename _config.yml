@@ -211,3 +211,14 @@ exclude:
 
 minima:
   show_excerpts: true
+
+  social_links:
+    - title: Mon dépôt Github
+      icon: github
+      url: "https://github.com/brice/brice.github.io"
+    - title: B-Sky
+      icon: bluesky
+      url: "https://bsky.app/profile/bricef.bsky.social"
+    - title: Mastodon
+      icon: mastodon
+      url: "https://framapiaf.org/@brice"
