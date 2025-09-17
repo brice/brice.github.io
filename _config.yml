@@ -1,4 +1,18 @@
-theme: minima
+remote_theme: "jekyll/minima@1e8a445"
+
+minima:
+  show_excerpts: true
+
+  social_links:
+    - title: Mon dépôt Github
+      icon: github
+      url: "https://github.com/brice/brice.github.io"
+    - title: B-Sky
+      icon: bluesky
+      url: "https://bsky.app/profile/bricef.bsky.social"
+    - title: Mastodon
+      icon: mastodon
+      url: "https://framapiaf.org/@brice"
 
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
@@ -43,11 +57,11 @@ urlimg: "http://brice.github.io/images"
 
 
 # # Paginates all X entries
-paginate: 5
+# paginate: 5
 
 
 # Pagination path › Important for blog page in /blog/ to work
-paginate_path: "blog/page:num"
+# paginate_path: "blog/page:num"
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -209,5 +223,3 @@ exclude:
 # theme: minima
 # # remote_theme: "jekyll/minima@1e8a445"
 
-minima:
-  show_excerpts: true
