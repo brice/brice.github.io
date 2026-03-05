@@ -25,3 +25,5 @@ Donc, est-ce un choix du distributeur, les deux oeuvres ont le même titre en fr
 Ce n'est en fait pas un hasard si le livre, comme le film situe son action dans ce type d'établissement. Le lieu mais aussi son atmosphère, sa musicalité, sa torpeur parfois ou sa frénésie s'y prête bien. Et puis c'est le lieu où se croise tout genre de personnes. Sans même aller chez les clients, les gens qui y travaillent sont là faute de mieux parfois. On y retrouve des étudiants qui ont trouvé un アルバイト (arubaito, tiré de l'allemand arbeit, job à temps partiel), des femmes aux foyers qui y font un mi temps, des gens qui passent et s'y attarder semble suspect. Le konbini est un décor, ou un personnage, de nombreux films que l'on n'a, ou pas, la chance de voir arriver ici.
 
 Même si la fille du konbini n'est pas la fille du konbini, les deux oeuvres se lisent et voient avec plaisir pour mieux comprendre la société japonaise d'une manière originale.
+
+**Plus d'infos :** Retrouvez la fiche du film sur le [site de la communauté Hanabi](https://www.hanabi.community/la-fille-du-konbini-lavis-dhanabi/)
