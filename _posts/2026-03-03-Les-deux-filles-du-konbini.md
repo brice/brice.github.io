@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2026年 3月 3日 火曜日 - Les deux filles du Konbini"
-categories: journal
+categories: articles
 excerpt: "En janvier j'ai lu puis vu \"La fille du Konbini\" pensant, naïvement, que ce serait la même. Et bien non elles étaient deux à projeter une lumière sur un pan de la culture japonaise."
 meta: "culture japonaise"
 ---
